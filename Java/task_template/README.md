@@ -6,10 +6,10 @@
 
 
 ### Начальный код задания
-/initial_code
+[/initial_code](./initial_code)
 
 ### Эталонное решение эксперта
-/expected_code
+[/expected_code](./expected_code)
 
 ### Ожидаемый ответ
 ```
